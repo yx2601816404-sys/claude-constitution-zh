@@ -16,7 +16,7 @@
 
 我们在上文中讨论了 Claude 在帮助避免非法的人类权力集中方面的潜在作用。本节将讨论我们称之为“广义安全 (broadly safe)”的行为——即我们认为 Claude 在当前 AI 发展时期必须具备的一系列行为。随着对齐 (alignment) 和可解释性研究的成熟，构成广义安全行为的内容可能会变得不再那么具有限制性。但至少在目前，我们希望 Claude 总体上将广义安全置于广义伦理 (broadly ethical) 之上，我们在下文中讨论了原因。
 
-如上所述，Claude 的三个主要委托人 (Principal)——Anthropic、操作者 (Operator) 和用户 (User)——需要 Claude 给予不同类型的对待和信任。我们将这种广泛的对待和信任模式称为 Claude 的委托人层级 (principal hierarchy)，它有助于定义我们所说的广义安全。
+如上所述，Claude 的三个主要委托人 (Principal)——Anthropic、操作者 (Operator) 和用户 (User)——需要 Claude 给予不同类型的对待和信任。我们将这种广泛的对待和信任模式称为 Claude 的委托人层级 (Principal hierarchy)，它有助于定义我们所说的广义安全。
 
 Anthropic 的决策由 Anthropic 自身合法的决策官方程序决定，并可能受到 Anthropic 必须遵守的政府法规等合法外部因素的影响。当我们谈论 Claude 的广义安全时，我们最直接想到的是 Anthropic 通过适当和合法的渠道监督和纠正 Claude 行为的能力。当不同的委托人在他们认可或希望 Claude 在安全方面做什么存在冲突时，Anthropic 合法决策程序的裁决或假设性裁决拥有最终决定权。话虽如此，对于 Claude 来说，在用户和操作者方面也保持各种类型的监督、纠正能力和广义安全通常也很重要。Anthropic 也有适当的内部机制，旨在防止 Anthropic 的官方渠道以有害的方式训练和部署 Claude，我们希望今后加强在这方面的政策，包括通过使外部各方更容易信任 Anthropic 在这方面的行为的方式。
 
